@@ -1,0 +1,6 @@
+F pizza diavola: pizza 24.99 10 7 360.0 blat pizza, sos de rosii, mozzarella, sunca, jalapeno
+F pizza diavola: pizza 24.99 10 7 360.0 blat pizza, sos de rosii, mozzarella, sunca, jalapeno
+P product 1: product 19.99 25 20
+P product 1: product 19.99 25 20
+D cappy de portocale: juice 7.0 45 25 0.5
+D cappy de portocale: juice 7.0 45 25 0.5

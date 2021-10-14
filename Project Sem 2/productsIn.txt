@@ -1,0 +1,59 @@
+F Pizza Margherita: fast_food 17.600000 20 10 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, ciuperci
+F Pizza Prosciutto: fast_food 19.200000 20 13 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, sunca
+F Pizza Funghi: fast_food 19.200000 20 13 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, ciuperci
+F Pizza Prosciutto e funghi: fast_food 20.000000 3 14 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, sunca, ciuperci
+F Pizza Quattro stagioni: fast_food 23.200000 19 16 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, sunca, ciuperci, salam, ardei, masline
+F Pizza Quattro formaggi: fast_food 22.400000 19 15 550.000000 Aluat de pizza, sos pizza, mozzarella 100% lapte, cascaval, parmezan, gorgonzola
+F Salata Caesar: salad 23.990000 22 22 420.000000 Ou, Mix salata, Pui grill, Castravete , Include crutoane, Mozzarella
+F Salata Tuna: salad 25.490000 22 17 420.000000 Ton, Mix salata, Morcov, Ceapa rosie, Masline negre, Porumb, Lamaie
+F Salata Athena: salad 25.490000 22 17 420.000000 Double Cream, Mix salata, Castravete , Ceapa rosie , Masline negre, Rosii
+F Salata Dakota (cu ciuperci crude): salad 26.990000 22 16 420.000000 Mix salata, Castravete , Ciuperci crude , Ardei copt, Ananas, Double Cream, Vita grill
+F Salata Dakota (cu ciuperci fierte): salad 26.990000 21 12 420.000000 Vita grill, Mix salata, Ardei copt, Ananas, Double Cream, Castravete , Ciuperci fierte
+F Gyros de puisor: fast_food 18.500000 30 19 460.000000 lipie pita, carne rotisata de pui, sos de usturoi, salata varza, rosii, ceapa proaspata, castraveciori murati, cartofi prajiti, sos dulce acrisor, sos masline, sos legume, salata verde
+F Cheeseburger: fast_food 4.200000 25 15 110.000000 Carne vita tocata, branza Cheddar, sos, castraveti, ceapa, chifla
+F McPuisor: fast_food 4.200000 25 15 110.000000 Carne de pui, sos McPuisor, castraveti murati, chifla
+F Carbonara: pasta 24.000000 20 8 200.000000 Paste, ou, smantana si bacon
+F Bolognese: pasta 25.000000 20 10 200.000000 Sos de rosii, carne tocata, ceapa
+F Lasagna: pasta 25.000000 20 14 250.000000 Pasta fresca, carne tocata, sos de rosii, parmezan, sos besciamella
+F Rigatoni Quattro Formaggi: pasta 24.000000 20 10 200.000000 Gorgonzola, smantana, branza brie
+F Piept de pui si cartofi copti: hot_meal 27.000000 20 10 350.000000 Piept de pui, sos tarhon, cartofi copti, parmesan, rosii cherry
+F Philadelphia cheese steak: hot_meal 29.000000 20 10 350.000000 Bagheta pufoasa, vita gatita domol, branza cheddar, ardei gras, ceapa calita, sos, cartofi copti
+F Mic dejun englezesc: hot_meal 20.000000 20 10 250.000000 Oua, fasole, bacon, rosii cherry, carnariori, cartofi prajiti, paine prajita
+F Omleta cu ciuperci si cascaval: hot_meal 15.000000 20 10 250.000000 Oua, ciuperci, ceapa, cheddar, parmezan, mix salata, paine prajita
+F Curry de legume: hot_meal 19.000000 20 10 300.000000 Orez basmati, ceapa, usturoi, zuchinni, ciuperci, lapte de cocos, curry
+F Ciorba de burta: soup 12.000000 20 10 320.000000 none
+F Ciorba radauteana: soup 10.000000 20 10 300.000000 none
+F Ciorba taraneasca de porc: soup 10.000000 20 10 300.000000 none
+F Supa crema de legume: soup 9.000000 20 12 300.000000 none
+F Supa crema de ciuperci: soup 12.000000 20 11 300.000000 none
+D Cafe latte: coffee 3.500000 30 20 0.300000
+D Cappuccino: coffee 6.500000 30 20 0.300000
+D Cafe americano: coffee 6.000000 30 20 0.300000
+D Espresso macchiato: coffee 6.500000 30 20 0.300000
+D Espresso italian: coffee 4.000000 30 20 0.300000
+D Ciocolata calda: hot_chocolate 3.000000 30 20 0.300000
+D Ciocolata alba: hot_chocolate 3.000000 30 20 0.300000
+D Ciocolata neagra: hot_chocolate 3.000000 30 20 0.300000
+D Coca-Cola: soft_drink 5.000000 30 20 0.500000
+D Fanta: soft_drink 5.000000 30 20 0.500000
+D Sprite: soft_drink 5.000000 30 20 0.500000
+D Limonada: juice 5.000000 30 20 0.500000
+D Cappy portocale: juice 5.000000 30 20 0.500000
+D Cappy piersici: juice 5.000000 30 20 0.500000
+D Cappy grapefruit: juice 5.000000 30 20 0.500000
+D Tymbark portocale: juice 5.000000 30 20 0.500000
+D Tymbark mere: juice 5.000000 30 20 0.500000
+D Tymbark piersici: juice 5.000000 30 20 0.500000
+D Milkshake de ciocolata: milkshake 10.000000 30 20 0.300000
+D Milkshake de capsuni: milkshake 10.000000 30 20 0.300000
+D Milkshake de banane: milkshake 10.000000 30 20 0.300000
+D Milkshake Oreo: milkshake 10.000000 30 20 0.300000
+D Apa plata Dorna: water 2.500000 30 20 0.500000
+D Apa carbogazoasa Dorna: water 2.500000 30 20 0.500000
+D Apa plata Aqua Carpatica: water 2.500000 30 20 0.500000
+D Apa carbogazoasa Aqua Carpatica: water 2.500000 30 21 0.500000
+D Bere Staropramen : alcoholic_beverage 5.000000 30 20 0.500000
+D Bere Tuborg : alcoholic_beverage 3.000000 30 20 0.500000
+D Bere Ursus : alcoholic_beverage 3.000000 30 20 0.500000
+D Vin alb Cotnari : alcoholic_beverage 35.250000 30 21 0.750000
+D Vin rosu Cotnari : alcoholic_beverage 35.500000 30 20 0.750000

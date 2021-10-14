@@ -1,0 +1,17 @@
+	Un proprietar de restaurant doreste o aplicatie care sa prezinte un meniu virtual clientilor si 
+sa gestioneze comenzile acestora. 
+
+Precizari:
+	-toate produsele vor avea nume, categorie, pret, numar de produse in stock si numar de comenzi
+	-mancarea va avea in plus gramaj si ingrediente
+	-bauturile vor avea in plus litri
+	-produsele vor fi incarcate la pornirea aplicatiei dintr-un fisier text
+
+Operare:
+	- va exista un meniu principal in care care vor aparea categoriile de produse, cosul meu si iesirea
+	din aplicatie
+	- clientul va putea cauta produse in functie de categoria aleasa si le va putea sorta in functie
+	de pret si nume
+	- comenzile vor putea fi filtrate dupa pret si categorie
+	- va exista o comanda de cumparare, prin care produsele vor fi achizitionate, iar numarul de comenzi
+	pentru produsele cumparate se va actualiza in functie de ce si cate produse au fost cumparate

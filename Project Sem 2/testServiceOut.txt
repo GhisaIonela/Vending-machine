@@ -1,0 +1,6 @@
+P none: none 0.000000 0 0
+P acadele: dulciuri 6.500000 26 26
+F none: none 0.000000 0 0 0.000000 none
+F pizza Quattro Formaggi: fast_food 24.550000 22 13 360.500000 blat crocant, salsa di pomodoro, mozzarella, ca?caval, gorgonzola, parmezan
+D none: none 0.000000 0 0 0.000000
+D cappy de portocale: juice 6.750000 22 21 0.750000

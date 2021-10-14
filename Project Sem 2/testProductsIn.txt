@@ -1,0 +1,2 @@
+F food 1: hot_meal 55.75 20 18 360.65 capsuni
+D drink 1: hot_chocolate 10.25 12 5 1.5
